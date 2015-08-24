@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "easyJet-Final7011",
+            "location": "Southeast Asia"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "easyJet-Final7011_db",
+                "serverName": "qhsdf6lfaj",
+                "user": "easyJet",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "Southeast Asia"
+            }
+        ]
+    }
+}
