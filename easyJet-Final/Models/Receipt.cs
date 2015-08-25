@@ -15,5 +15,6 @@ namespace easyJet_Final.Models
         public DateTime Time { get; set; }
         public string SeatNum { get; set; }
         public int Price { get; set; }
+
     }
 }
