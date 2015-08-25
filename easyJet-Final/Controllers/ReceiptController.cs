@@ -11,6 +11,7 @@ namespace easyJet_Final.Controllers
         // GET: Receipt
         public ActionResult Index()
         {
+            
             return View();
         }
     }
