@@ -262,12 +262,12 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Account\SignOutCallback.cshtml" />
     <Content Include="Views\UserProfile\Index.cshtml" />
+    <Content Include="Views\BookTicket\BookTicket.cshtml" />
+    <Content Include="Views\SeatSelection\SeatSelection.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\BookTicket\" />
     <Folder Include="Views\Receipt\" />
-    <Folder Include="Views\SeatSelection\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

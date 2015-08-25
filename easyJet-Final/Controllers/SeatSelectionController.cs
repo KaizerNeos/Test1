@@ -9,7 +9,7 @@ namespace easyJet_Final.Controllers
     public class SeatSelectionController : Controller
     {
         // GET: SeatSelection
-        public ActionResult Index()
+        public ActionResult SeatSelection()
         {
             return View();
         }

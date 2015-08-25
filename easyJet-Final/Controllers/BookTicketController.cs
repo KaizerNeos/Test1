@@ -9,8 +9,9 @@ namespace easyJet_Final.Controllers
     public class BookTicketController : Controller
     {
         // GET: BookTicket
-        public ActionResult Index()
+        public ActionResult BookTicket()
         {
+
             return View();
         }
     }
