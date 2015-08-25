@@ -11,7 +11,6 @@ namespace easyJet_Final.Controllers
         // GET: BookTicket
         public ActionResult BookTicket()
         {
-
             return View();
         }
     }
